@@ -1,0 +1,10 @@
+Package: me.nepeta.docky
+Name: Docky
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Depends: mobilesubstrate, firmware (>= 11.0), me.nepeta.iconstate
+Version: 0.3
+Architecture: iphoneos-arm
+Description: Dock customizer
+Maintainer: Kritanta <kritantadevelopment@gmail.com>
+Author: Nepeta
+Section: Tweaks
