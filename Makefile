@@ -1,6 +1,7 @@
 INSTALL_TARGET_PROCESSES = SpringBoard
 PACKAGE_VERSION=$(THEOS_PACKAGE_BASE_VERSION)
 SYSROOT = $(THEOS)/sdks/iPhoneOS11.2.sdk
+export ARCHS=arm64 arm64e
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Docky

@@ -1,5 +1,5 @@
 include $(THEOS)/makefiles/common.mk
-
+export ARCHS=arm64 arm64e
 PACKAGE_VERSION=$(THEOS_PACKAGE_BASE_VERSION)
 BUNDLE_NAME = DockyPrefs
 SYSROOT = $(THEOS)/sdks/iPhoneOS11.2.sdk
